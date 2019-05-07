@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sungmin5/RESTfulAPI/issues"
   },
-  "homepage": "https://github.com/sungmin5/RESTfulAPI#readme"
+  "homepage": "https://github.com/sungmin5/RESTfulAPI#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
