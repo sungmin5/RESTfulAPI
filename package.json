@@ -1,0 +1,24 @@
+{
+  "name": "restfulapi",
+  "version": "1.0.0",
+  "description": "A Ndoe.js RESTful API Tutorial Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sungmin5/RESTfulAPI.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Sung Min Ahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sungmin5/RESTfulAPI/issues"
+  },
+  "homepage": "https://github.com/sungmin5/RESTfulAPI#readme"
+}
